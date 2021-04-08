@@ -1,0 +1,11 @@
+{
+	"autoload" : {
+		"psr-4" : {
+			"Michael Uhlig Training\\TestPhpDev\\" : "src"
+		}
+	},
+	"name" : "Michael Uhlig Training/TestPhpDev",
+	"require" : {
+		"php" : ">=7.4"
+	}
+}
